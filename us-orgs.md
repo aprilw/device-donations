@@ -4,7 +4,7 @@ Note from April: I have no affiliation with these organizations (aside from volu
 
 California
 * Berkeley & Novato - [ewasteCollective](https://ewastecollective.org/)
-* Chico - [Computers for Classrooms(http://computersforclassrooms.org/donate-your-used-computer/)
+* Chico - [Computers for Classrooms](http://computersforclassrooms.org/donate-your-used-computer/)
 * Menlo Park - [Menlo-Atherton PTA](http://www.suekayton.com/MAHigh/donations.htm)
 * Oakland - [Tech Exchange](https://www.techexchange.org/donate.html)
 * Oakland - [RRRcomputer](https://rrrcomputer.org/)
